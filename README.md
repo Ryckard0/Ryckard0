@@ -1,7 +1,9 @@
 ## Oi! Seja bem-vindo(a)! Meu nome é Ricardo Sousa 🖐️
-
-### // Web Developer
-### // Estudante de programação
+ 
+ /* </br>
+ Web Developer </br>
+ Estudante de programação </br>
+ */
 
 ##
 
