@@ -4,7 +4,7 @@ Oi! Seja bem-vindo(a)! Meu nome é Ricardo Sousa 🖐️
 
 <h2 align="center">
  /* </br>
- Web Developer </br>
+ Desenvolvedor de Software </br>
  Estudante de programação </br>
  */
 </h2>
