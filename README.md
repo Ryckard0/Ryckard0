@@ -1,5 +1,5 @@
 <h1 align="center">
-Oi! Seja bem-vindo(a)! Meu nome é Ricardo Sousa 🖐️
+Olá! Seja bem-vindo(a)! Meu nome é Ricardo Sousa 🖐️
 </h1>
 
 <h2 align="center">
